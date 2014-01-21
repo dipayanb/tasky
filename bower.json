@@ -1,0 +1,21 @@
+{
+  "name": "tasky",
+  "version": "0.1.0",
+  "authors": [
+    "dipayanb <dipayan.bhowmick@gmail.com>"
+  ],
+  "description": "The simplest task management and collaboration software currently in existence.",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "backbone": "~1.1.0",
+    "marionette": "~1.5.1",
+    "bootstrap": "~3.0.3"
+  }
+}
